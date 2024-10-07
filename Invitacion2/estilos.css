@@ -53,6 +53,7 @@
             font-size: 82px; /* Tamaño de fuente */
             background: linear-gradient(to right, #EFB810, #FFFFFF, #896909); /* Degradado del texto */
             -webkit-background-clip: text; /* Recorta el fondo al texto */
+        background-clip: text;
             color: transparent;
         }
 
