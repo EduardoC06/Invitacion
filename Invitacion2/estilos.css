@@ -74,7 +74,10 @@
             color: white; /* Color del texto de la fecha */
             font-size: 64px;
         }
-
+        .textI {
+            color: white; /* Color del texto de la fecha */
+            font-size: 64px;
+        }
         .rectangulos {
             margin-top: 20px; /* Espacio entre la sección de fecha y los rectángulos */
             margin-bottom: 40px;
